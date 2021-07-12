@@ -1,7 +1,11 @@
-# issues to study
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skaghzz&theme=dark&show_icons=true" />
+</a>
 
-## issues
-1. spring에서 빠르게 로그를 쌓는 방법
-2. jpa의 n+1 문제의 원인과 해결 방법
-3. entitiy의 초기값 설정과 관련된 내용
-4. spring actuator란 무엇인가?
+### Topics to study
+| Topic                              | Publish                      |
+|------------------------------------|------------------------------|
+| spring에서 빠르게 로그를 쌓는 방법 | [blog](https://skagh.tistory.com/37) |
+| jpa의 n+1 문제의 원인과 해결 방법  | [blog](https://skagh.tistory.com/39) |
+| entitiy의 초기값 설정과 관련된 내용  |  |
+| spring actuator란 무엇인가?  |  |

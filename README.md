@@ -10,3 +10,8 @@
 | entitiy의 초기값 설정과 관련된 내용  |  |
 | spring actuator란 무엇인가?  | [blog](https://skagh.tistory.com/40) |
 | spring restcontroller가 request의 값을 받는 방법 | |
+
+### simple topics
+| Topic           | Publish       |
+|-----------------|---------------|
+| vscode wakatime |               |

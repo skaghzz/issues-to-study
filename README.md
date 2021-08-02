@@ -2,7 +2,7 @@
   <a href="https://skagh.tistory.com/"><img src="https://img.shields.io/badge/🔥🔥 Tech Blog-FFCD00?style=flat-square&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>
 </p>
 <p>👨‍💻 Backend developer & NLP(Natural language process) developer</p>
-<p>아무리 복잡한 로직이라도 사용자가 이용하기 쉬운 프로그램을 만들고 싶습니다.</p>
+<p>write code and build cool things.</p>
 <br>
 
 <h3 align>🛠 Tech Stack 🛠</h3>

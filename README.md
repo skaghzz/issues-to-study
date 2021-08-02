@@ -2,7 +2,7 @@
   <a href="https://skagh.tistory.com/"><img src="https://img.shields.io/badge/🔥🔥 Tech Blog-FFCD00?style=flat-square&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>
 </p>
 <p>👨‍💻 Backend developer & NLP(Natural language process) developer</p>
-<p>write code and build cool things.</p>
+<h2>write code and build cool things.</h2>
 <br>
 
 <h3 align>🛠 Tech Stack 🛠</h3>
@@ -67,13 +67,4 @@ Tools & ETC
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-</p>
-
-
-
-<br>
-<p align>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skaghzz&theme=dark&show_icons=true" />
-</a>
 </p>

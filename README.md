@@ -1,8 +1,9 @@
 <p align>
   <a href="https://skagh.tistory.com/"><img src="https://img.shields.io/badge/🔥🔥 Tech Blog-FFCD00?style=flat-square&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>
+  <a href="https://sweet-woolen-b49.notion.site/Backend-developer-d880302e4fa54dbfa053f3427de53d12"><img src="https://img.shields.io/badge/🔑🔑 Resume-03C75A?style=flat-square&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>
 </p>
 <p>👨‍💻 Backend developer & NLP(Natural language process) developer</p>
-<h2>write code and build cool things.</h2>
+<h3><b>write code and build cool things.</b></h3>
 <br>
 
 <h3 align>🛠 Tech Stack 🛠</h3>
